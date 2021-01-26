@@ -3,8 +3,8 @@ import java. awt.*;
 publicclass GridLayoutSwing {
 publicstaticvoid main(String[] args){
 JFrame f = new JFrame("Grid Layout Swing"
-f. setDefau1tLookAndFee1Decorated (true) ;
-f. setDefau1tCloseOperation (JFrame.EXIT_ON_CLOSED);
+f. setDefaultLookAndFee1Decorated (true) ;
+f. setDefaultCloseOperation (JFrame.EXIT_ON_CLOSED);
 
 JButton b2 = new JButton("Tombol 1");
 JButton b3 = new JButton("Tombol 2");
